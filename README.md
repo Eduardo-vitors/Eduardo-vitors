@@ -1,26 +1,39 @@
-## Bem-vindo(a) ao Meu perfil  😁
+# Olá, eu sou o Eduardo Vitor! 👋
 
- <div>
-   <a href="https://github.com/Eduardo-vitors">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-vitors&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-vitors&layout=compact&langs_count=6&theme=tokyonight"/>
+### 🚀 Sobre mim
+Desenvolvedor em constante aprendizado, focado em tecnologias Web e Lógica de Programação. 
+
+---
+
+### 📊 Minhas Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-vitors&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-vitors&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    <br>
-    
-  As Linguagem que tenho familiaridade! 
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+
 <br>
- 
-## Minhas Redes Sociais!
- 
-<div> 
-  <a href="https://www.instagram.com/eduardo_vitor_ss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kedu.vitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/eduardo-vitor-silva-950350246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Racket-red?style=for-the-badge&logo=racket&logoColor=white" />
+</div>
+
+<br>
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="left">
+  <a href="https://www.instagram.com/eduardo_vitor_ss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://br.linkedin.com/in/eduardo-vitor-silva-950350246" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kedu.vitor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
